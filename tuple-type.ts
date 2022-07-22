@@ -1,3 +1,4 @@
+// Tuple type
 // Tuple: fixed-length array
 // const person: {
 //     name: string;

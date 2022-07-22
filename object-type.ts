@@ -1,3 +1,5 @@
+// Object type
+
 const person: {
     name: string;
     age: number;
